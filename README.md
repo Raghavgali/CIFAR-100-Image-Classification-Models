@@ -6,10 +6,10 @@ This project was part of the course work for DS5220: Supervised Machine Learning
 
 In this project, the following machine learning models were applied on the CIFAR-100 dataset to analyze their performance and improve classification accuracy:
 
-	1.	Support Vector Machine (SVM) without kernel
-	2.	SVM with Radial Bias Function (RBF) kernel
-	3.	Logistic Regression
-	4.	Convolutional Neural Networks (CNN)
+	1.Support Vector Machine (SVM) without kernel
+	2.SVM with Radial Bias Function (RBF) kernel
+	3.Logistic Regression
+	4.Convolutional Neural Networks (CNN)
 
 I processed and normalized the CIFAR-100 dataset, explored dimensionality reduction techniques like Principal Component Analysis (PCA), and experimented with feature extraction using ResNet model weights.
 
