@@ -36,12 +36,12 @@ Below are the accuracy graphs for the models trained on CIFAR-100:
 
 **Convolutional Neural Network**
 
-	• **For 100 Classes without Regularization:**
+	• For 100 Classes without Regularization:
  
  <img width="570" alt="Screenshot 2024-10-01 at 8 40 01 AM" src="https://github.com/user-attachments/assets/b129bbdb-4bdc-4358-aebd-912e21c16a0b">
 
 
- 	• **For 20 Superclasses with Regularization:**
+ 	• For 20 Superclasses with Regularization:
   
   <img width="484" alt="Screenshot 2024-10-01 at 8 40 07 AM" src="https://github.com/user-attachments/assets/812ecd6b-1c73-4639-add8-91df7a730c48">
 
