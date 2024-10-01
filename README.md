@@ -29,17 +29,22 @@ I processed and normalized the CIFAR-100 dataset, explored dimensionality reduct
 
 Below are the accuracy graphs for the models trained on CIFAR-100:
 
-**SVM Without Kernel**
+**Logistic Regression, SVM with Linear Kernel , SVM with RBF Kernel (With Regularization)**
 
-**SVM With RBF Kernel**
+<img width="608" alt="Screenshot 2024-10-01 at 8 39 58 AM" src="https://github.com/user-attachments/assets/0e6a72d6-c2f7-4230-bf97-33b20ffcca79">
 
-**Logistic Regression**
 
 **Convolutional Neural Network**
 
 	• **For 100 Classes without Regularization:**
+ 
+ <img width="570" alt="Screenshot 2024-10-01 at 8 40 01 AM" src="https://github.com/user-attachments/assets/b129bbdb-4bdc-4358-aebd-912e21c16a0b">
+
 
  	• **For 20 Superclasses with Regularization:**
+  
+  <img width="484" alt="Screenshot 2024-10-01 at 8 40 07 AM" src="https://github.com/user-attachments/assets/812ecd6b-1c73-4639-add8-91df7a730c48">
+
 
 ## PCA for Dimensionality Reduction
 
