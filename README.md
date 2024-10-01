@@ -44,6 +44,7 @@ Below are the accuracy graphs for the models trained on CIFAR-100:
 ## PCA for Dimensionality Reduction
 
 From the PCA analysis, I concluded that 50 components were sufficient to capture 80% of the variance in the dataset, improving model efficiency.
+
 <img width="589" alt="Screenshot 2024-10-01 at 8 39 42 AM" src="https://github.com/user-attachments/assets/07eb7b88-bac5-43b4-bda8-d1d7874a1876">
 
 
