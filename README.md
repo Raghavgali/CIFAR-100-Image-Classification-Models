@@ -11,4 +11,24 @@ In this project, the following machine learning models were applied on the CIFAR
 	3.	Logistic Regression
 	4.	Convolutional Neural Networks (CNN)
 
-We processed and normalized the CIFAR-100 dataset, explored dimensionality reduction techniques like Principal Component Analysis (PCA), and experimented with feature extraction using ResNet model weights.
+I processed and normalized the CIFAR-100 dataset, explored dimensionality reduction techniques like Principal Component Analysis (PCA), and experimented with feature extraction using ResNet model weights.
+
+
+## Methodologies
+
+	•	Data Preprocessing:
+	•	The images (32x32x3) were normalized to a standard scale of 0.5x0.5x0.5 for optimal model performance.
+	•	Model Implementations:
+	•	SVM (without kernel): Initial accuracy of 13.42%.
+	•	Kernel SVM: Improved accuracy to 26.39%.
+	•	Logistic Regression: Achieved an accuracy of 27%.
+	•	Convolutional Neural Networks (CNN): Initial accuracies of up to 60% without regularization.
+
+
+## Accuracy Graphs:
+
+Below are the accuracy graphs for the models trained on CIFAR-100:
+
+**SVM Without Kernel**
+
+
